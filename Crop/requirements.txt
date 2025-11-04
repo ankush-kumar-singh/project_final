@@ -1,0 +1,18 @@
+# This project is a Node.js project. Use npm to install dependencies listed in package.json.
+# To install the project's dependencies, run:
+
+#   npm install
+
+# Node dependencies (for reference, from package.json):
+# @google/genai
+# @google/generative-ai
+# axios
+# body-parser
+# cors
+# daemon
+# dotenv
+# express
+# init
+# install
+
+# If you intended to track Python dependencies, reply with the Python packages you need and I'll create a proper requirements.txt for pip.
